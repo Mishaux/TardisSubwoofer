@@ -2,7 +2,7 @@ Artwork and Arduino code for my TARDIS infrasonic tapped horn subwoofer
 
 Blog post: http://industriumvita.com/dr-whos-tardis-infrasonic-tapped-horn-subwoofer/
 
-Huge thanks to the guys are TardisBuilders.com for the PDF sign artwork, you guys rock!
+Huge thanks to the guys at TardisBuilders.com for the PDF sign artwork, you guys rock!
 
 http://tardisbuilders.com/index.php?topic=305
 
